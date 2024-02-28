@@ -1,9 +1,3 @@
-"""
-İkiye bölme metodu, tam olarak adının da anlattığı işlemi uygular. Bir f(x) fonksiyonu alınsın. Bu fonksiyon [a,b] kapalı aralığında
-sürekli ve a ile b sayıları reel sayılar kümesinin birer elemanı olsun. Eğer bu aralıkta f(a).f(b)<0 oluyorsa, Bolzano teoreminin
-bize söylediği üzere bu aralıkta bu fonksiyonun en az bir kökü bulunur.
-Kökün bulunduğunu garantiledikten sonra tek yapılması gereken, f(a).f(b)<0 koşulunu, aralığı ikiye bölmeye devam ederek sağlamaktır.
-"""
 #f = (x-1)**2*(x-2)*(x-3)
 #f2 = 2**(x-2)*(x-3) + 4*(x-1)*(2*x-5) + 2*(x-1)**2
 
